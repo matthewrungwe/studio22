@@ -3118,7 +3118,7 @@ input, select, textarea {
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
-		height: 3.25em;
+		height: 4em;
 		left: 0;
 		letter-spacing: 0.25em;
 		line-height: 3.25em;
@@ -3313,7 +3313,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#header {
-				height: 2.75em;
+				height: 3.75em;
 				line-height: 2.75em;
 			}
 
